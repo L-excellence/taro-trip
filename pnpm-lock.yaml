@@ -74,6 +74,9 @@ importers:
       redux:
         specifier: 4.1.0
         version: 4.1.0
+      taro-skeleton:
+        specifier: ^2.0.4
+        version: 2.0.4(@tarojs/shared@4.0.7)
       taro-ui:
         specifier: ^3.3.0
         version: 3.3.0(@tarojs/components@4.0.7(@tarojs/helper@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react@18.3.1)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@tarojs/plugin-platform-alipay@4.0.7(@tarojs/service@4.0.7)(@tarojs/shared@4.0.7))(@tarojs/plugin-platform-h5@4.0.7(@tarojs/taro@4.0.7(@tarojs/components@4.0.7(@tarojs/helper@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react@18.3.1)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@tarojs/helper@4.0.7)(@tarojs/shared@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react@18.3.1)(rollup@3.29.5)(solid-js@1.9.3)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@tarojs/plugin-platform-jd@4.0.7(@tarojs/service@4.0.7)(@tarojs/shared@4.0.7))(@tarojs/plugin-platform-qq@4.0.7(@tarojs/plugin-platform-weapp@4.0.7(@tarojs/service@4.0.7)(@tarojs/shared@4.0.7))(@tarojs/shared@4.0.7))(@tarojs/plugin-platform-swan@4.0.7(@tarojs/service@4.0.7)(@tarojs/shared@4.0.7))(@tarojs/plugin-platform-tt@4.0.7(@tarojs/service@4.0.7)(@tarojs/shared@4.0.7))(@tarojs/plugin-platform-weapp@4.0.7(@tarojs/service@4.0.7)(@tarojs/shared@4.0.7))(@tarojs/react@4.0.7(react@18.3.1))(@tarojs/taro-rn@4.0.7(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@bam.tech/react-native-image-resizer@3.0.10(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(@react-native-async-storage/async-storage@2.1.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(@react-native-camera-roll/camera-roll@7.8.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(@react-native-clipboard/clipboard@1.15.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(@react-native-community/cameraroll@4.1.2(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(@react-native-community/geolocation@3.4.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(@react-native-community/netinfo@11.4.1(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(@react-native-community/segmented-control@2.2.2(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(@react-native-community/slider@4.5.5)(@tarojs/components@4.0.7(@tarojs/helper@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react@18.3.1)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@tarojs/helper@4.0.7)(@tarojs/shared@4.0.7)(@types/react@18.3.12)(expo-av@15.0.1(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(expo-barcode-scanner@13.0.1(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1)))(expo-brightness@13.0.2(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(expo-camera@16.0.5(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(expo-file-system@18.0.3(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(expo-image-picker@16.0.2(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1)))(expo-keep-awake@14.0.1(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react@18.3.1))(expo-location@18.0.1(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1)))(expo-sensors@14.0.1(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react-native-device-info@14.0.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(react-native-gesture-handler@2.21.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-image-zoom-viewer@3.0.1(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-pager-view@6.2.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-root-siblings@5.0.1)(react-native-safe-area-context@4.14.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-screens@4.1.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-svg@15.9.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1)(rollup@3.29.5)(typescript@5.6.3)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@tarojs/taro@4.0.7(@tarojs/components@4.0.7(@tarojs/helper@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react@18.3.1)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@tarojs/helper@4.0.7)(@tarojs/shared@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(react-dom@18.3.1(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1)
@@ -1637,6 +1640,11 @@ packages:
   '@sinonjs/fake-timers@10.3.0':
     resolution: {integrity: sha512-V4BG07kuYSUkTCSBHG8G8TNhM+F19jXFWnQtzj+we8DrkpSBCee9Z3Ms8yiGer/dlmhe35/Xdgyo3/0rQKg7YA==}
 
+  '@stencil/core@1.17.4':
+    resolution: {integrity: sha512-dmuNYM6fnHPvE2ptHoUBQtjcpXqrHnkDtdyUD6/JrZWcJt6jBtrykewObOxzpDCMLs+NT7668ussRagdVL03gQ==}
+    engines: {node: '>=10.13.0', npm: '>=6.0.0'}
+    hasBin: true
+
   '@stencil/core@2.22.3':
     resolution: {integrity: sha512-kmVA0M/HojwsfkeHsifvHVIYe4l5tin7J5+DLgtl8h6WWfiMClND5K3ifCXXI2ETDNKiEk21p6jql3Fx9o2rng==}
     engines: {node: '>=12.10.0', npm: '>=6.0.0'}
@@ -1732,6 +1740,9 @@ packages:
     resolution: {integrity: sha512-XIB2XbzHTN6ieIjfIMV9hlVcfPU26s2vafYWQcZHWXHOxiaRZYEDKEwdl129Zyg50+foYV2jCgtrqSA6qNuNSA==}
     engines: {node: '>=6'}
 
+  '@tarojs/api@3.6.35':
+    resolution: {integrity: sha512-RTyI09J2kgQBhjd0H/JtFsWygFIGYUFly88qm+ozQWxsgr9BTOSDpb94eQ/i9OZNFEXxGk8EGk1aLeoqKYOSaw==}
+
   '@tarojs/api@4.0.7':
     resolution: {integrity: sha512-hUZoOdAwjqBws1hpvf/edc0X6n+5yTfKXDi09dUuGeOyc6/3p7pgrdNWYQL3Yt0aYoX19FsmFNAID6h4jnCCXg==}
     engines: {node: '>= 18'}
@@ -1807,6 +1818,9 @@ packages:
       react-native-pager-view: ~ 6.2
       react-native-svg: '>= 14.1.0'
       react-native-webview: '>= 13'
+
+  '@tarojs/components@3.0.11':
+    resolution: {integrity: sha512-Bt8YxIvTf9gCivkzSvgpdzaxVViH9mRTIFGzjpHfWiJ2q4cR9z9I8Mh0EVP5uTk4fkSMag8xDUzVj2T0zP00bQ==}
 
   '@tarojs/components@4.0.7':
     resolution: {integrity: sha512-973WEcya3FuSM8Kx77lOjmddz51+clu5PT79P8gmMqUuYB7pX37+//QRGbhYY7wc9uYuA5nVazYRShI1Vv+jfQ==}
@@ -1988,6 +2002,9 @@ packages:
       react-native-safe-area-context: '>= 4.4.0'
       react-native-screens: '>= 3.0.0'
 
+  '@tarojs/router@3.0.11':
+    resolution: {integrity: sha512-+GO8BbHic+yhM8TrFLIsOXqo0M5RqVgHBqJiyD/N2/1atCWZ+Z8fSr0NFqaxsPUgAkFS0eVOnhhwHXzvjvntzw==}
+
   '@tarojs/router@4.0.7':
     resolution: {integrity: sha512-/aGIOma8rRjtEWm+Hk/GXk68LYUPJ56AfbOEzTQ6ikbQsvydvG9S8n5sHI9crsC10nC+jK6AcMQLT2wxpldqBA==}
     engines: {node: '>= 18'}
@@ -2009,6 +2026,11 @@ packages:
       react-native-device-info: '>= 10.0.0'
       react-native-root-siblings: '>= 5'
 
+  '@tarojs/runtime@3.6.35':
+    resolution: {integrity: sha512-W8DbKfsChflWoSplYYf8IcWEemjPt6lwTATJn0YzLqSAWhtVfsQ8I5+Dw8qZVzdBxUwJI6WEywOgDgfxUQ0EEg==}
+    peerDependencies:
+      '@tarojs/shared': ~3.6.35
+
   '@tarojs/runtime@4.0.7':
     resolution: {integrity: sha512-oScnP3IAv3pQmJonzBSN6/NytKz4StRZzFFmxmcAkqsF4gT7dVPVF++E4vPG7OWh+zmowQUhs7P1qVdSCuQFDw==}
     engines: {node: '>= 18'}
@@ -2017,9 +2039,18 @@ packages:
     resolution: {integrity: sha512-L4iqCOiZEHM33t0GerwXBA3z/O+5BX/ylSi7BvwxFUslX5l9gY/6yxG59m8EFqfDYjfIWeJCxpvpy/AvMlnvrA==}
     engines: {node: '>= 18'}
 
+  '@tarojs/shared@3.6.35':
+    resolution: {integrity: sha512-QqqxEtGAD9QMl62iXHANMYvKntEnx5srdr7xEqOYt21UJode81yv05eIyQ8NEOdmtXXkHJuzXPxivldSSTVDIg==}
+
   '@tarojs/shared@4.0.7':
     resolution: {integrity: sha512-DaVXA02Ctze6c+INSS5pDxCBKOX2XIa2CtZtpmrSLKYUZjEvGH3IiHjegoyjldpBS0s9jZ3KLzOetHDuiScESg==}
     engines: {node: '>= 18'}
+
+  '@tarojs/taro-alipay@2.1.0':
+    resolution: {integrity: sha512-10jHTOJvS8g8ImOKGxVWsI3EjNAdVywVpPz5NkPzffPYRACQiwbQUp2fiVTOMqm8/JoaAEY2ZZhu6Pr5QFWXmg==}
+
+  '@tarojs/taro-h5@3.0.11':
+    resolution: {integrity: sha512-j5gQsyhdfJ9Z3+GmicYiJOY+37phqMApWtvnQtZjlPaEDKdWQlg9iTIxasHC4o5lOb+wE7BogTMEhIuNUBR17A==}
 
   '@tarojs/taro-h5@4.0.7':
     resolution: {integrity: sha512-JcTn7GnhrwJFQPcG0cMYSHmF4piG/Zn/AvCPsQtFQSw9S9e6Ll6LPo3czAIiHXuZeUBHaTL79y5jDtTMiZH9Lw==}
@@ -2031,6 +2062,12 @@ packages:
     engines: {node: '>= 18'}
     peerDependencies:
       webpack: 5.91.0
+
+  '@tarojs/taro-qq@2.1.0':
+    resolution: {integrity: sha512-Qmc6ZWHcnypEXmwsII1u6skdqpxEvbEAA8IGye3LPOHCLXEPDpKhnJznxoX+69IiYoyoXA/Wl2X0BFsnHImlOg==}
+
+  '@tarojs/taro-quickapp@2.1.0':
+    resolution: {integrity: sha512-W7DAzzLZXzNUNBWq3pBORDpIfeEFTVNcca13GVdKuwLgQYSUe2jF8sUtkORatoMpN5YkLIE9ArSo3s8aNOPwkQ==}
 
   '@tarojs/taro-rn@4.0.7':
     resolution: {integrity: sha512-m0AWIGga3AvesBpTV43i62PWjpRDTgDKGJw0p2qx4hOwtPmOHiSmpGDVZNtwzoLm0ia9MA7eDeq4ZJhNX4+Vmg==}
@@ -2058,6 +2095,23 @@ packages:
       react-native-image-zoom-viewer: '>= 3'
       react-native-root-siblings: '>= 5'
       react-native-safe-area-context: '>= 4.8.0'
+
+  '@tarojs/taro-swan@2.1.0':
+    resolution: {integrity: sha512-qJzdpCDlO1pTcBBMNcoBvjmJro/n5hm7ZA5edIR/7IBrFnsNncZP9N/sfF+o5SMTdOUysTHiRorWv5c93VO2fA==}
+
+  '@tarojs/taro-tt@2.1.0':
+    resolution: {integrity: sha512-yRXazd70XcHUDSBdZ29Jeq99gfcI24M/zJt5CASb0g3yKGVWOZ449pc6p0ytqDJI3wMZnojOs1GkqTvHaSCkxw==}
+
+  '@tarojs/taro-weapp@2.1.0':
+    resolution: {integrity: sha512-eRdPc+rmEbu5ke6XX5j7YEnIX0rSP6RRzEO1B7wovHYDpgFnvLedzGG95LSRr7BDxwkiC3M+PwLz3z5T6TH83w==}
+
+  '@tarojs/taro@2.1.0':
+    resolution: {integrity: sha512-qprmtTovr2g1Y8lfvzKbwaj4rERnorn1pjfClDNX8JUDV7cqXbrZteJgz5K1ZhjSCfmFm+o3NkXd9zhmHp59mw==}
+    peerDependencies:
+      nervjs: ^1.5.0
+
+  '@tarojs/taro@3.0.11':
+    resolution: {integrity: sha512-Goeb1ciGsKvkLHO0jjwsyaVae5gmK5cLPs8nSzN9AwGoXP1EfQd0OTyBsaeKR9pn9m+UN+Gv/N9ZMfELh7RJ/A==}
 
   '@tarojs/taro@4.0.7':
     resolution: {integrity: sha512-FxkpoH97lpiHugevac0YttYFwvHzJS/aE8ptQwxEe5I1f8dWbvbmrMorVRyxaFQPvAawx98XIHA6JBLFigdE3g==}
@@ -2089,6 +2143,9 @@ packages:
         optional: true
       webpack-dev-server:
         optional: true
+
+  '@tarojs/utils@2.1.0':
+    resolution: {integrity: sha512-Y+bkeotCVujudIf4MehfU5qIhYC2HsV16AK3KjgnfXmhL7mo0sbytnwnpTFkza6nc5YDyQ9YPYKuf6btO+uOKA==}
 
   '@tarojs/webpack5-prebundle@4.0.7':
     resolution: {integrity: sha512-Ii8HlSRdzz0TED3QW8gThKVdMlSUohQHkvFUbb2rh477W6cRTrXAHPvzDIxgLtYJXsV/98IyPqNo+dyqbzWFDQ==}
@@ -2832,6 +2889,9 @@ packages:
   better-opn@3.0.2:
     resolution: {integrity: sha512-aVNobHnJqLiUelTaHat9DZ1qM2w0C0Eym4LPI/3JxOnSokGVdsl1T1kN7TFvsEAD8G47A6VKQ0TVHqbBnYMJlQ==}
     engines: {node: '>=12.0.0'}
+
+  better-scroll@1.15.2:
+    resolution: {integrity: sha512-sSY2N8I9/B+YX/9JpIz6pMQYnmBuvspBqZG4UxYaQEfz/ZWrnxwdyKLL4t6IKpFmxqtZadVypXw7vSSHxBZpBQ==}
 
   big-integer@1.6.52:
     resolution: {integrity: sha512-QxD8cf2eVqJOOz63z6JIN9BzvVs/dlySa5HGSBH5xtR8dPteIRQnBxxKqkNTiT6jbDTF6jAfrd4oMcND9RGbQg==}
@@ -3599,6 +3659,9 @@ packages:
 
   dom-walk@0.1.2:
     resolution: {integrity: sha512-6QvTW9mrGeIegrFXdtQi9pk7O/nSK6lSdXW2eqUspN5LWD7UTji2Fqw5V2YLjBpHEoU9Xl/eUWNpDeZvoyOv2w==}
+
+  dom7@2.1.5:
+    resolution: {integrity: sha512-xnhwVgyOh3eD++/XGtH+5qBwYTgCm0aW91GFgPJ3XG+jlsRLyJivnbP0QmUBFhI+Oaz9FV0s7cxgXHezwOEBYA==}
 
   domelementtype@2.3.0:
     resolution: {integrity: sha512-OLETBj6w0OsagBwdXnPdN0cnMfF9opN69co+7ZrbfPGrdpPVNBUj02spi6B1N7wChLQiPn4CSH/zJvXw56gmHw==}
@@ -4547,6 +4610,9 @@ packages:
   highlight.js@10.7.3:
     resolution: {integrity: sha512-tzcUFauisWKNHaRkN4Wjl/ZA07gENAjFl3J/c480dprkGTg5EQstgaNFqBfUqCq54kZRIEcreTsAgF/m2quD7A==}
 
+  history@4.10.1:
+    resolution: {integrity: sha512-36nwAD620w12kuzPAsyINPWJqlNbij+hpK1k9XRloDtym8mxzGYl2c17LnV6IAGB2Dmg4tEa7G7DlawS0+qjew==}
+
   history@5.3.0:
     resolution: {integrity: sha512-ZqaKwjjrAYUYfLG+htGaIIZ4nioX2L70ZUMIFysS3xvBsSG4x/n1V6TXV3N8ZYNuFGlDirFg32T7B6WOUPDYcQ==}
 
@@ -4728,6 +4794,9 @@ packages:
   internal-slot@1.0.7:
     resolution: {integrity: sha512-NGnrKwXzSms2qUUih/ILZ5JBqNTSa1+ZmP6flaIp6KmSElgE9qdndzS3cqjrDovwFdmwsGsLdeFgB6suw+1e9g==}
     engines: {node: '>= 0.4'}
+
+  intersection-observer@0.7.0:
+    resolution: {integrity: sha512-Id0Fij0HsB/vKWGeBe9PxeY45ttRiBmhFyyt/geBdDHBYNctMRTE3dC1U3ujzz3lap+hVXlEcVaB56kZP/eEUg==}
 
   into-stream@3.1.0:
     resolution: {integrity: sha512-TcdjPibTksa1NQximqep2r17ISRiNE9fwlfbg3F8ANdvP5/yrFTew86VcO//jk4QTaMlbjypPBq76HN2zaKfZQ==}
@@ -5787,6 +5856,18 @@ packages:
   neo-async@2.6.2:
     resolution: {integrity: sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==}
 
+  nerv-devtools@1.5.7:
+    resolution: {integrity: sha512-0EgQfMAARzhEy8qjU4JqVDu00fb84XHVY4qBGkCbsg/EmVD7ZzLar1e27VRD+juMAIc1QPSMS8wlariwDblAPA==}
+
+  nerv-shared@1.4.0:
+    resolution: {integrity: sha512-cCyeP1hnnnMfM5HRcmMKconGwI8Wl0xwekAU4DvqDC1M8NxCOF4TwDmedgdgyNt9EkWNbiotBRUV5zJsbfOQWA==}
+
+  nerv-utils@1.4.5:
+    resolution: {integrity: sha512-9XeifC0l+aDXhA0aXcklxS2o7o87xJxMQAl1+iIHrD5Sei/61ubap0oOzb4t9VMhSEvwWm4/rJRd8PGMKZiwiA==}
+
+  nervjs@1.5.7:
+    resolution: {integrity: sha512-x+hGSOETqA+7lbChW+c/NIXEMrCCvm6IaEHlDbZmaNVX0TAyKZinRIHcYr7o5K/pA4qGWjJQmjoNyx+Mx+rVLg==}
+
   nested-error-stacks@2.0.1:
     resolution: {integrity: sha512-SrQrok4CATudVzBS7coSz26QRSmlK9TzzoFbeKfcPBUFPjcQM9Rqvr/DlJkOrwI/0KcgvMub1n1g5Jt9EgRn4A==}
 
@@ -5922,6 +6003,9 @@ packages:
 
   obuf@1.1.2:
     resolution: {integrity: sha512-PX1wu0AmAdPqOL1mWhqmlOd8kOIZQwGZw6rh7uby9fTc5lhaOWFLX3I6R1hrF9k3zUY40e6igsLGkDXK92LJNg==}
+
+  omit.js@1.0.2:
+    resolution: {integrity: sha512-/QPc6G2NS+8d4L/cQhbk6Yit1WTB6Us2g84A7A/1+w9d/eRGHyEqC5kkQtHVoHZ5NFWGG7tUGgrhVZwgZanKrQ==}
 
   on-finished@2.3.0:
     resolution: {integrity: sha512-ikqdkGAAyf/X/gPhXGvfgAytDZtDbr+bkNUJ0N9h5MI/dmdgCs3l6hoHrcUv41sRKew3jIwrp4qQDXiK99Utww==}
@@ -6114,6 +6198,9 @@ packages:
   path-to-regexp@0.1.10:
     resolution: {integrity: sha512-7lf7qcQidTku0Gu3YDPc8DJ1q7OOucfa/BSsIwjuh56VU7katFvuM8hULfkwB3Fns/rsVF7PwPKVw1sl5KQS9w==}
 
+  path-to-regexp@3.3.0:
+    resolution: {integrity: sha512-qyCH421YQPS2WFDxDjftfc1ZR5WKQzVzqsp4n9M2kQhVOo/ByahFoUNJfl58kOcEGfQ//7weFTDhm+ss8Ecxgw==}
+
   path-to-regexp@6.3.0:
     resolution: {integrity: sha512-Yhpw4T9C6hPpgPeA28us07OJeqZ5EzQTkbfwuhsUg0c237RomFoETJgmp2sa3F/41gfLE6G5cqcYwznmeEeOlQ==}
 
@@ -6127,6 +6214,9 @@ packages:
 
   pend@1.2.0:
     resolution: {integrity: sha512-F3asv42UuXchdzt+xXqfW1OGlVBe+mxa2mqI0pg5yAHZPvFmY3Y6drSf/GQ1A86WgWEN9Kzh/WrgKa6iGcHXLg==}
+
+  performance-now@2.1.0:
+    resolution: {integrity: sha512-7EAHlyLHI56VEIdK57uwHdHKIaAGbnXPiw0yWbarQZOKaKpvUIgW0jWRVLiatnM+XXlSwsanIBH/hzGMJulMow==}
 
   picocolors@0.2.1:
     resolution: {integrity: sha512-cMlDqaLEqfSaW8Z7N5Jw+lyIW869EzT73/F5lhtY9cLGoVxSXznfgfXMO0Z5K0o0Q2TkTXq+0KFsdnSe3jDViA==}
@@ -6559,6 +6649,9 @@ packages:
   queue@6.0.2:
     resolution: {integrity: sha512-iHZWu+q3IdFZFX36ro/lKBkSvfkztY5Y7HMiPlOUjhupPcG2JMfst2KKEpu5XndviX/3UhFbRngUPNKtgvtZiA==}
 
+  raf@3.4.1:
+    resolution: {integrity: sha512-Sq4CW4QhwOHE8ucn6J34MqtZCeWFP2aQSmrlroYgqAV1PjStIhJXxYuTgUIfkEk7zTLjmIjLmU5q+fbD1NnOJA==}
+
   randombytes@2.1.0:
     resolution: {integrity: sha512-vYl3iOX+4CKUWuxGi9Ukhie6fsqXqS9FE2Zaic4tNFD2N2QQaXOMFbuKK4QmDHC0JO6B1Zp41J0LpT0oR68amQ==}
 
@@ -6576,6 +6669,11 @@ packages:
 
   react-devtools-core@5.3.2:
     resolution: {integrity: sha512-crr9HkVrDiJ0A4zot89oS0Cgv0Oa4OG1Em4jit3P3ZxZSKPMYyMjfwMqgcJna9o625g8oN87rBm8SWWrSTBZxg==}
+
+  react-dom@16.14.0:
+    resolution: {integrity: sha512-1gCeQXDLoIqMgqD3IO2Ah9bnf0w9kzhwN5q4FGnHZ67hBm9yePzB5JJAIQCc8x3pFnNlwFq4RidZggNAAkzWWw==}
+    peerDependencies:
+      react: ^16.14.0
 
   react-dom@18.3.1:
     resolution: {integrity: sha512-5m4nQKp+rZRb09LNH59GM4BxTh9251/ylbKIbpe7TpGxfJ+9kv6BLkLBXIjjspbgbnIBNqlI23tRnTWT0snUIw==}
@@ -6718,6 +6816,10 @@ packages:
 
   react-refresh@0.14.2:
     resolution: {integrity: sha512-jCvmsr+1IUSMUyzOkRcvnVbX3ZYC6g9TDrDbFuFmRDq7PD4yaGbLKNQL6k2jnArV8hjYxh7hVhAZB6s9HDGpZA==}
+    engines: {node: '>=0.10.0'}
+
+  react@16.14.0:
+    resolution: {integrity: sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g==}
     engines: {node: '>=0.10.0'}
 
   react@18.3.1:
@@ -6996,6 +7098,9 @@ packages:
     resolution: {integrity: sha512-xAg7SOnEhrm5zI3puOOKyy1OMcMlIJZYNJY7xLBwSze0UjhPLnWfj2GF2EpT0jmzaJKIWKHLsaSSajf35bcYnA==}
     engines: {node: '>=v12.22.7'}
 
+  scheduler@0.19.1:
+    resolution: {integrity: sha512-n/zwRWRYSUj0/3g/otKDRPMh6qv2SYMWNq85IEa8iZyAv8od9zDYpGSnpBEjNgcMNq6Scbu5KfIPxNF72R/2EA==}
+
   scheduler@0.23.2:
     resolution: {integrity: sha512-UOShsPwz7NrMUqhR6t0hWjFduvOzbtv7toDH1/hIrfRNIDBnnBWd0CwJTGvTpngVlmwGCdP9/Zl/tVrDqcuYzQ==}
 
@@ -7245,6 +7350,12 @@ packages:
   sprintf-js@1.0.3:
     resolution: {integrity: sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g==}
 
+  ssr-window@1.0.1:
+    resolution: {integrity: sha512-dgFqB+f00LJTEgb6UXhx0h+SrG50LJvti2yMKMqAgzfUmUXZrLSv2fjULF7AWGwK25EXu8+smLR3jYsJQChPsg==}
+
+  ssr-window@2.0.0:
+    resolution: {integrity: sha512-NXzN+/HPObKAx191H3zKlYomE5WrVIkoCB5IaSdvKokxTpjBdWfr0RaP+1Z5KOfDT0ZVz+2tdtiBkhsEQ9p+0A==}
+
   ssri@10.0.6:
     resolution: {integrity: sha512-MGrFH9Z4NP9Iyhqn16sDtBpRRNJ0Y2hNa6D65h736fVSaPCHr4DM4sWUNvVaSuC+0OBGhwsrydQwmgfg5LncqQ==}
     engines: {node: ^14.17.0 || ^16.13.0 || >=18.0.0}
@@ -7446,6 +7557,10 @@ packages:
     resolution: {integrity: sha512-Pm78CgU7Wvg+w/MgIL/1NwMSLgx0XqFof25EnVyX8iZFCYJv5CppH7LHkBj43qW2k5Cp3Iz7FcdBxrox7XX2AQ==}
     engines: {node: '>= 4.7.0'}
 
+  swiper@4.4.2:
+    resolution: {integrity: sha512-Vfl4Zw4Z7iZwUu5S11JeC7OSy4nwky29nkUulkmg8lIqcWla6UtOhdap0gkyJRYS+UJXki+GWQsbFM0SZRxZPQ==}
+    engines: {node: '>= 4.7.0'}
+
   symbol-tree@3.2.4:
     resolution: {integrity: sha512-9QNk5KwDF+Bvz+PyObkmSYjI5ksVUYtjW7AU22r2NKcfLJcXp96hkDWU3+XndOsUb+AQ9QhfzfCT2O+CNWT5Tw==}
 
@@ -7464,6 +7579,9 @@ packages:
   tar@6.2.1:
     resolution: {integrity: sha512-DZ4yORTwrbTj/7MZYq2w+/ZFdI6OZ/f9SFHR+71gIVUZhOQPHzVCLpvRnPgyaMpfWxxk/4ONva3GQSyNIKRv6A==}
     engines: {node: '>=10'}
+
+  taro-skeleton@2.0.4:
+    resolution: {integrity: sha512-ndPNZAr9UR+jHOUdalTCkG7H/W4jynCJGcR6GQgbSgGgoTqoV2fWYKZDVZS4Y1KVcWPXzNre3Zi+MxqVzS0AkQ==}
 
   taro-ui@3.3.0:
     resolution: {integrity: sha512-M4tf2OEy1BzmeFyvF0kFOgzzW1Lc86TlQ5UwZh4cNMkuViqGId/DLqY0iMlqAjfXstRn0x4HaFFw91xfLqkPzg==}
@@ -7552,6 +7670,12 @@ packages:
 
   tiny-case@1.0.3:
     resolution: {integrity: sha512-Eet/eeMhkO6TX8mnUteS9zgPbUMQa4I6Kkp5ORiBD5476/m+PIRiumP5tmh5ioJpH7k51Kehawy2UDfsnxxY8Q==}
+
+  tiny-invariant@1.3.3:
+    resolution: {integrity: sha512-+FbBPE1o9QAYvviau/qC5SE3caw21q3xkvWKBtja5vgqOWIHHJ3ioaq1VPfn/Szqctz2bU/oYeKd9/z5BL+PVg==}
+
+  tiny-warning@1.0.3:
+    resolution: {integrity: sha512-lBN9zLN/oAf68o3zNXYrdCt1kP8WsiGW8Oo2ka41b2IM5JL/S1CTyX1rW0mb/zSuJun0ZUrDxx4sqvYS2FWzPA==}
 
   tmp@0.0.33:
     resolution: {integrity: sha512-jRCJlojKnZ3addtTOjdIqoRuPEKBvNXcGYqzO6zWZX8KfKEpnGY5jfggJQ3EjKuu8D4bJRr0y+cYJFmYbImXGw==}
@@ -7695,6 +7819,11 @@ packages:
     resolution: {integrity: sha512-/OxDN6OtAk5KBpGb28T+HZc2M+ADtvRxXrKKbUwtsLgdoxgX13hyy7ek6bFRl5+aBs2yZzB0c4CnQfAtVypW/g==}
     engines: {node: '>= 0.4'}
 
+  typescript@3.9.7:
+    resolution: {integrity: sha512-BLbiRkiBzAwsjut4x/dsibSTB6yWpwT5qWmC2OfuCg3GgVQCSgMs4vEctYPhsaGtd0AeuuHMkjZ2h2WG8MSzRw==}
+    engines: {node: '>=4.2.0'}
+    hasBin: true
+
   typescript@5.6.3:
     resolution: {integrity: sha512-hjcS1mhfuyi4WW8IWtjP7brDrG2cuDZukyrYrSauoXGNgx0S7zceP07adYkJycEr56BOUTNPzbInooiN3fn1qw==}
     engines: {node: '>=14.17'}
@@ -7724,6 +7853,9 @@ packages:
 
   unescape-js@1.1.4:
     resolution: {integrity: sha512-42SD8NOQEhdYntEiUQdYq/1V/YHwr1HLwlHuTJB5InVVdOSbgI6xu8jK5q65yIzuFCfczzyDF/7hbGzVbyCw0g==}
+
+  unfetch@4.2.0:
+    resolution: {integrity: sha512-F9p7yYCn6cIW9El1zi0HI6vqpeIvBsr3dSuRO6Xuppb1u5rXpCPmMvLSyECLhybr9isec8Ohl0hPekMVrEinDA==}
 
   unicode-canonical-property-names-ecmascript@2.0.1:
     resolution: {integrity: sha512-dA8WbNeb2a6oQzAQ55YlT5vQAWGV9WXOsi3SskE3bcCdM0P4SDd+24zS/OCacdRq5BkdsRj9q3Pg6YyQoxIGqg==}
@@ -7760,6 +7892,9 @@ packages:
   unique-string@2.0.0:
     resolution: {integrity: sha512-uNaeirEPvpZWSgzwsPGtU2zVSTrn/8L5q/IexZmH0eH6SA73CmAA5U4GwORTxQAZs95TAXLNqeLoPPNO5gZfWg==}
     engines: {node: '>=8'}
+
+  universal-router@8.3.0:
+    resolution: {integrity: sha512-cBkihRoHvRQAjdUnDE1GGuuw/TPAIi8z2pEsSmUVAWLeZdgjHzzAb1+0VOO6NvBOvySItOTQikzaGlRxRdJBnA==}
 
   universal-router@9.2.0:
     resolution: {integrity: sha512-V5PyhtX7JaUDF+EM8YvP4NlfPcqYfswMJV3J0LVPqBC70sabj6UAu3rPI7kSMNwRDZ+F6Wf0zcEmECcglHx2xg==}
@@ -7858,6 +7993,9 @@ packages:
   validate-npm-package-name@5.0.1:
     resolution: {integrity: sha512-OljLrQ9SQdOUqTaQxqL5dEfZWrXExyyWsozYlAWFawPVNuD83igl7uJD2RTkNMbniIYgt8l81eCJGIdQF7avLQ==}
     engines: {node: ^14.17.0 || ^16.13.0 || >=18.0.0}
+
+  value-equal@1.0.1:
+    resolution: {integrity: sha512-NOJ6JZCAWr0zlxZt+xqCHNTEKOsrks2HQd4MqhP1qy4z1SkbEP467eNx6TgDKXMvUOb+OENfJCZwM+16n7fRfw==}
 
   vary@1.1.2:
     resolution: {integrity: sha512-BNGbWLfd0eUPabhkXUVm0j8uuvREyTh5ovRa/dyow/BqAbZJyC+5fU+IzQOzmAKzYqYRAISoRhdQr3eIZ/PXqg==}
@@ -7973,9 +8111,15 @@ packages:
     resolution: {integrity: sha512-OqedPIGOfsDlo31UNwYbCFMSaO9m9G/0faIHj5/dZFDMFqPTcx6UwqyOy3COEaEOg/9VsGIpdqn62W5KhoKSpg==}
     engines: {node: '>=0.8.0'}
 
+  weui@1.1.3:
+    resolution: {integrity: sha512-vC6eWUvG1MYoE8yLsvBBmLB2+4DZWynQOL47MUscHMwPVltOZPGsiRb2PE7y3z+w3ElF1SsmJsyhr40wiXgP5A==}
+
   whatwg-encoding@3.1.1:
     resolution: {integrity: sha512-6qN4hJdMwfYBtE3YBTTHhoeuUrDBPZmbQaxWAqSALV/MeEnR5z1xd8UKud2RAkFoPkmB+hli1TZSnyi84xz1vQ==}
     engines: {node: '>=18'}
+
+  whatwg-fetch@2.0.4:
+    resolution: {integrity: sha512-dcQ1GWpOD/eEQ97k66aiEVpNnapVj90/+R+SXTPYGHpYBBypfKJEQjLrvMZ7YXbKm21gXd4NcuxUTjiv1YtLng==}
 
   whatwg-fetch@3.6.20:
     resolution: {integrity: sha512-EqhiFU6daOA8kpjOWTL0olhVOF3i7OrFzSYiGsEMB8GcXS+RrzauAERX65xMeNWVqxA6HXH2m69Z9LaKKdisfg==}
@@ -10057,6 +10201,10 @@ snapshots:
     dependencies:
       '@sinonjs/commons': 3.0.1
 
+  '@stencil/core@1.17.4':
+    dependencies:
+      typescript: 3.9.7
+
   '@stencil/core@2.22.3': {}
 
   '@swc/core-darwin-arm64@1.3.96':
@@ -10121,6 +10269,12 @@ snapshots:
   '@szmarczak/http-timer@1.1.2':
     dependencies:
       defer-to-connect: 1.1.3
+
+  '@tarojs/api@3.6.35':
+    dependencies:
+      '@babel/runtime': 7.26.0
+      '@tarojs/runtime': 3.6.35(@tarojs/shared@3.6.35)
+      '@tarojs/shared': 3.6.35
 
   '@tarojs/api@4.0.7(@tarojs/runtime@4.0.7)(@tarojs/shared@4.0.7)':
     dependencies:
@@ -10251,6 +10405,20 @@ snapshots:
       - webpack
       - webpack-chain
       - webpack-dev-server
+
+  '@tarojs/components@3.0.11(@tarojs/shared@4.0.7)':
+    dependencies:
+      '@stencil/core': 1.17.4
+      '@tarojs/taro': 3.0.11(@tarojs/shared@4.0.7)
+      better-scroll: 1.15.2
+      classnames: 2.5.1
+      intersection-observer: 0.7.0
+      omit.js: 1.0.2
+      resolve-pathname: 3.0.0
+      swiper: 4.4.2
+      weui: 1.1.3
+    transitivePeerDependencies:
+      - '@tarojs/shared'
 
   '@tarojs/components@4.0.7(@tarojs/helper@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react@18.3.1)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96))':
     dependencies:
@@ -10509,6 +10677,15 @@ snapshots:
       react-native-safe-area-context: 4.14.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1)
       react-native-screens: 4.1.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1)
 
+  '@tarojs/router@3.0.11(@tarojs/shared@4.0.7)':
+    dependencies:
+      '@tarojs/runtime': 3.6.35(@tarojs/shared@4.0.7)
+      history: 4.10.1
+      universal-router: 8.3.0
+      url-parse: 1.5.10
+    transitivePeerDependencies:
+      - '@tarojs/shared'
+
   '@tarojs/router@4.0.7(@tarojs/runtime@4.0.7)(@tarojs/shared@4.0.7)(@tarojs/taro@4.0.7(@tarojs/components@4.0.7(@tarojs/helper@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react@18.3.1)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@tarojs/helper@4.0.7)(@tarojs/shared@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))':
     dependencies:
       '@tarojs/runtime': 4.0.7
@@ -10568,6 +10745,18 @@ snapshots:
       - webpack-chain
       - webpack-dev-server
 
+  '@tarojs/runtime@3.6.35(@tarojs/shared@3.6.35)':
+    dependencies:
+      '@tarojs/shared': 3.6.35
+      lodash-es: 4.17.21
+      tslib: 2.8.1
+
+  '@tarojs/runtime@3.6.35(@tarojs/shared@4.0.7)':
+    dependencies:
+      '@tarojs/shared': 4.0.7
+      lodash-es: 4.17.21
+      tslib: 2.8.1
+
   '@tarojs/runtime@4.0.7':
     dependencies:
       '@tarojs/shared': 4.0.7
@@ -10588,7 +10777,32 @@ snapshots:
       - '@swc/helpers'
       - supports-color
 
+  '@tarojs/shared@3.6.35': {}
+
   '@tarojs/shared@4.0.7': {}
+
+  '@tarojs/taro-alipay@2.1.0(nervjs@1.5.7)':
+    dependencies:
+      '@tarojs/taro': 2.1.0(nervjs@1.5.7)
+      '@tarojs/utils': 2.1.0
+      lodash: 4.17.21
+      prop-types: 15.8.1
+    transitivePeerDependencies:
+      - nervjs
+
+  '@tarojs/taro-h5@3.0.11(@tarojs/shared@4.0.7)':
+    dependencies:
+      '@tarojs/api': 3.6.35
+      '@tarojs/router': 3.0.11(@tarojs/shared@4.0.7)
+      '@tarojs/runtime': 3.6.35(@tarojs/shared@4.0.7)
+      base64-js: 1.5.1
+      jsonp-retry: 1.0.3
+      mobile-detect: 1.4.5
+      raf: 3.4.1
+      unfetch: 4.2.0
+      whatwg-fetch: 2.0.4
+    transitivePeerDependencies:
+      - '@tarojs/shared'
 
   '@tarojs/taro-h5@4.0.7(@tarojs/components@4.0.7(@tarojs/helper@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react@18.3.1)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@tarojs/taro@4.0.7(@tarojs/components@4.0.7(@tarojs/helper@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react@18.3.1)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@tarojs/helper@4.0.7)(@tarojs/shared@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))':
     dependencies:
@@ -10637,6 +10851,24 @@ snapshots:
     transitivePeerDependencies:
       - '@swc/helpers'
       - supports-color
+
+  '@tarojs/taro-qq@2.1.0(nervjs@1.5.7)':
+    dependencies:
+      '@tarojs/taro': 2.1.0(nervjs@1.5.7)
+      '@tarojs/utils': 2.1.0
+      lodash: 4.17.21
+      prop-types: 15.8.1
+    transitivePeerDependencies:
+      - nervjs
+
+  '@tarojs/taro-quickapp@2.1.0(nervjs@1.5.7)':
+    dependencies:
+      '@tarojs/taro': 2.1.0(nervjs@1.5.7)
+      '@tarojs/utils': 2.1.0
+      lodash: 4.17.21
+      prop-types: 15.8.1
+    transitivePeerDependencies:
+      - nervjs
 
   ? '@tarojs/taro-rn@4.0.7(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@bam.tech/react-native-image-resizer@3.0.10(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(@react-native-async-storage/async-storage@2.1.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(@react-native-camera-roll/camera-roll@7.8.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(@react-native-clipboard/clipboard@1.15.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(@react-native-community/cameraroll@4.1.2(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(@react-native-community/geolocation@3.4.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(@react-native-community/netinfo@11.4.1(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(@react-native-community/segmented-control@2.2.2(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(@react-native-community/slider@4.5.5)(@tarojs/components@4.0.7(@tarojs/helper@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react@18.3.1)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@tarojs/helper@4.0.7)(@tarojs/shared@4.0.7)(@types/react@18.3.12)(expo-av@15.0.1(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(expo-barcode-scanner@13.0.1(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1)))(expo-brightness@13.0.2(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(expo-camera@16.0.5(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(expo-file-system@18.0.3(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(expo-image-picker@16.0.2(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1)))(expo-keep-awake@14.0.1(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react@18.3.1))(expo-location@18.0.1(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1)))(expo-sensors@14.0.1(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react-native-device-info@14.0.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(react-native-gesture-handler@2.21.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-image-zoom-viewer@3.0.1(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-pager-view@6.2.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-root-siblings@5.0.1)(react-native-safe-area-context@4.14.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-screens@4.1.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-svg@15.9.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1)(rollup@3.29.5)(typescript@5.6.3)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96))'
   : dependencies:
@@ -10693,6 +10925,45 @@ snapshots:
       - webpack-chain
       - webpack-dev-server
 
+  '@tarojs/taro-swan@2.1.0(nervjs@1.5.7)':
+    dependencies:
+      '@tarojs/taro': 2.1.0(nervjs@1.5.7)
+      '@tarojs/utils': 2.1.0
+      lodash: 4.17.21
+      prop-types: 15.8.1
+    transitivePeerDependencies:
+      - nervjs
+
+  '@tarojs/taro-tt@2.1.0(nervjs@1.5.7)':
+    dependencies:
+      '@tarojs/taro': 2.1.0(nervjs@1.5.7)
+      '@tarojs/utils': 2.1.0
+      lodash: 4.17.21
+      prop-types: 15.8.1
+    transitivePeerDependencies:
+      - nervjs
+
+  '@tarojs/taro-weapp@2.1.0(nervjs@1.5.7)':
+    dependencies:
+      '@tarojs/taro': 2.1.0(nervjs@1.5.7)
+      '@tarojs/utils': 2.1.0
+      lodash: 4.17.21
+      prop-types: 15.8.1
+    transitivePeerDependencies:
+      - nervjs
+
+  '@tarojs/taro@2.1.0(nervjs@1.5.7)':
+    dependencies:
+      '@tarojs/utils': 2.1.0
+      nervjs: 1.5.7
+
+  '@tarojs/taro@3.0.11(@tarojs/shared@4.0.7)':
+    dependencies:
+      '@tarojs/api': 3.6.35
+      '@tarojs/taro-h5': 3.0.11(@tarojs/shared@4.0.7)
+    transitivePeerDependencies:
+      - '@tarojs/shared'
+
   '@tarojs/taro@4.0.7(@tarojs/components@4.0.7(@tarojs/helper@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react@18.3.1)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@tarojs/helper@4.0.7)(@tarojs/shared@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96))':
     dependencies:
       '@tarojs/api': 4.0.7(@tarojs/runtime@4.0.7)(@tarojs/shared@4.0.7)
@@ -10726,6 +10997,8 @@ snapshots:
       webpack: 5.91.0(@swc/core@1.3.96)
       webpack-chain: 6.5.1
       webpack-dev-server: 4.15.2(webpack@5.91.0(@swc/core@1.3.96))
+
+  '@tarojs/utils@2.1.0': {}
 
   '@tarojs/webpack5-prebundle@4.0.7(webpack@5.91.0(@swc/core@1.3.96))':
     dependencies:
@@ -11691,6 +11964,10 @@ snapshots:
     dependencies:
       open: 8.4.2
 
+  better-scroll@1.15.2:
+    dependencies:
+      babel-runtime: 6.26.0
+
   big-integer@1.6.52: {}
 
   big.js@5.2.2: {}
@@ -12587,6 +12864,10 @@ snapshots:
       entities: 4.5.0
 
   dom-walk@0.1.2: {}
+
+  dom7@2.1.5:
+    dependencies:
+      ssr-window: 2.0.0
 
   domelementtype@2.3.0: {}
 
@@ -13829,6 +14110,15 @@ snapshots:
 
   highlight.js@10.7.3: {}
 
+  history@4.10.1:
+    dependencies:
+      '@babel/runtime': 7.26.0
+      loose-envify: 1.4.0
+      resolve-pathname: 3.0.0
+      tiny-invariant: 1.3.3
+      tiny-warning: 1.0.3
+      value-equal: 1.0.1
+
   history@5.3.0:
     dependencies:
       '@babel/runtime': 7.26.0
@@ -14042,6 +14332,8 @@ snapshots:
       es-errors: 1.3.0
       hasown: 2.0.2
       side-channel: 1.0.6
+
+  intersection-observer@0.7.0: {}
 
   into-stream@3.1.0:
     dependencies:
@@ -14414,7 +14706,7 @@ snapshots:
       '@babel/register': 7.25.9(@babel/core@7.26.0)
       babel-core: 7.0.0-bridge.0(@babel/core@7.26.0)
       colors: 1.4.0
-      flow-parser: 0.121.0
+      flow-parser: 0.253.0
       graceful-fs: 4.2.11
       micromatch: 3.1.10
       neo-async: 2.6.2
@@ -15192,6 +15484,21 @@ snapshots:
 
   neo-async@2.6.2: {}
 
+  nerv-devtools@1.5.7:
+    dependencies:
+      nerv-shared: 1.4.0
+      nerv-utils: 1.4.5
+      nervjs: 1.5.7
+
+  nerv-shared@1.4.0: {}
+
+  nerv-utils@1.4.5: {}
+
+  nervjs@1.5.7:
+    dependencies:
+      nerv-shared: 1.4.0
+      nerv-utils: 1.4.5
+
   nested-error-stacks@2.0.1: {}
 
   nice-try@1.0.5: {}
@@ -15323,6 +15630,10 @@ snapshots:
       es-object-atoms: 1.0.0
 
   obuf@1.1.2: {}
+
+  omit.js@1.0.2:
+    dependencies:
+      babel-runtime: 6.26.0
 
   on-finished@2.3.0:
     dependencies:
@@ -15524,6 +15835,8 @@ snapshots:
 
   path-to-regexp@0.1.10: {}
 
+  path-to-regexp@3.3.0: {}
+
   path-to-regexp@6.3.0: {}
 
   path-type@4.0.0: {}
@@ -15531,6 +15844,8 @@ snapshots:
   path-type@5.0.0: {}
 
   pend@1.2.0: {}
+
+  performance-now@2.1.0: {}
 
   picocolors@0.2.1: {}
 
@@ -15920,6 +16235,10 @@ snapshots:
     dependencies:
       inherits: 2.0.4
 
+  raf@3.4.1:
+    dependencies:
+      performance-now: 2.1.0
+
   randombytes@2.1.0:
     dependencies:
       safe-buffer: 5.2.1
@@ -15947,6 +16266,14 @@ snapshots:
     transitivePeerDependencies:
       - bufferutil
       - utf-8-validate
+
+  react-dom@16.14.0(react@16.14.0):
+    dependencies:
+      loose-envify: 1.4.0
+      object-assign: 4.1.1
+      prop-types: 15.8.1
+      react: 16.14.0
+      scheduler: 0.19.1
 
   react-dom@18.3.1(react@18.3.1):
     dependencies:
@@ -16132,6 +16459,12 @@ snapshots:
       react-native: 0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)
 
   react-refresh@0.14.2: {}
+
+  react@16.14.0:
+    dependencies:
+      loose-envify: 1.4.0
+      object-assign: 4.1.1
+      prop-types: 15.8.1
 
   react@18.3.1:
     dependencies:
@@ -16405,6 +16738,11 @@ snapshots:
   saxes@6.0.0:
     dependencies:
       xmlchars: 2.2.0
+
+  scheduler@0.19.1:
+    dependencies:
+      loose-envify: 1.4.0
+      object-assign: 4.1.1
 
   scheduler@0.23.2:
     dependencies:
@@ -16724,6 +17062,10 @@ snapshots:
 
   sprintf-js@1.0.3: {}
 
+  ssr-window@1.0.1: {}
+
+  ssr-window@2.0.0: {}
+
   ssri@10.0.6:
     dependencies:
       minipass: 7.1.2
@@ -16972,6 +17314,11 @@ snapshots:
 
   swiper@11.1.0: {}
 
+  swiper@4.4.2:
+    dependencies:
+      dom7: 2.1.5
+      ssr-window: 1.0.1
+
   symbol-tree@3.2.4: {}
 
   table@6.8.2:
@@ -17002,6 +17349,26 @@ snapshots:
       minizlib: 2.1.2
       mkdirp: 1.0.4
       yallist: 4.0.0
+
+  taro-skeleton@2.0.4(@tarojs/shared@4.0.7):
+    dependencies:
+      '@tarojs/components': 3.0.11(@tarojs/shared@4.0.7)
+      '@tarojs/router': 3.0.11(@tarojs/shared@4.0.7)
+      '@tarojs/taro': 3.0.11(@tarojs/shared@4.0.7)
+      '@tarojs/taro-alipay': 2.1.0(nervjs@1.5.7)
+      '@tarojs/taro-h5': 3.0.11(@tarojs/shared@4.0.7)
+      '@tarojs/taro-qq': 2.1.0(nervjs@1.5.7)
+      '@tarojs/taro-quickapp': 2.1.0(nervjs@1.5.7)
+      '@tarojs/taro-swan': 2.1.0(nervjs@1.5.7)
+      '@tarojs/taro-tt': 2.1.0(nervjs@1.5.7)
+      '@tarojs/taro-weapp': 2.1.0(nervjs@1.5.7)
+      classnames: 2.5.1
+      nerv-devtools: 1.5.7
+      nervjs: 1.5.7
+      react: 16.14.0
+      react-dom: 16.14.0(react@16.14.0)
+    transitivePeerDependencies:
+      - '@tarojs/shared'
 
   ? taro-ui@3.3.0(@tarojs/components@4.0.7(@tarojs/helper@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react@18.3.1)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@tarojs/plugin-platform-alipay@4.0.7(@tarojs/service@4.0.7)(@tarojs/shared@4.0.7))(@tarojs/plugin-platform-h5@4.0.7(@tarojs/taro@4.0.7(@tarojs/components@4.0.7(@tarojs/helper@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react@18.3.1)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@tarojs/helper@4.0.7)(@tarojs/shared@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react@18.3.1)(rollup@3.29.5)(solid-js@1.9.3)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@tarojs/plugin-platform-jd@4.0.7(@tarojs/service@4.0.7)(@tarojs/shared@4.0.7))(@tarojs/plugin-platform-qq@4.0.7(@tarojs/plugin-platform-weapp@4.0.7(@tarojs/service@4.0.7)(@tarojs/shared@4.0.7))(@tarojs/shared@4.0.7))(@tarojs/plugin-platform-swan@4.0.7(@tarojs/service@4.0.7)(@tarojs/shared@4.0.7))(@tarojs/plugin-platform-tt@4.0.7(@tarojs/service@4.0.7)(@tarojs/shared@4.0.7))(@tarojs/plugin-platform-weapp@4.0.7(@tarojs/service@4.0.7)(@tarojs/shared@4.0.7))(@tarojs/react@4.0.7(react@18.3.1))(@tarojs/taro-rn@4.0.7(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@bam.tech/react-native-image-resizer@3.0.10(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(@react-native-async-storage/async-storage@2.1.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(@react-native-camera-roll/camera-roll@7.8.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(@react-native-clipboard/clipboard@1.15.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(@react-native-community/cameraroll@4.1.2(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(@react-native-community/geolocation@3.4.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(@react-native-community/netinfo@11.4.1(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(@react-native-community/segmented-control@2.2.2(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(@react-native-community/slider@4.5.5)(@tarojs/components@4.0.7(@tarojs/helper@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react@18.3.1)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@tarojs/helper@4.0.7)(@tarojs/shared@4.0.7)(@types/react@18.3.12)(expo-av@15.0.1(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(expo-barcode-scanner@13.0.1(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1)))(expo-brightness@13.0.2(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(expo-camera@16.0.5(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(expo-file-system@18.0.3(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(expo-image-picker@16.0.2(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1)))(expo-keep-awake@14.0.1(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react@18.3.1))(expo-location@18.0.1(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1)))(expo-sensors@14.0.1(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(expo@52.0.7(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react-native-device-info@14.0.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1)))(react-native-gesture-handler@2.21.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-image-zoom-viewer@3.0.1(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-pager-view@6.2.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-root-siblings@5.0.1)(react-native-safe-area-context@4.14.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-screens@4.1.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-svg@15.9.0(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native-webview@13.12.3(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1)(rollup@3.29.5)(typescript@5.6.3)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@tarojs/taro@4.0.7(@tarojs/components@4.0.7(@tarojs/helper@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(react@18.3.1)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(@tarojs/helper@4.0.7)(@tarojs/shared@4.0.7)(@types/react@18.3.12)(html-webpack-plugin@5.6.3(webpack@5.91.0(@swc/core@1.3.96)))(postcss@8.4.49)(rollup@3.29.5)(webpack-chain@6.5.1)(webpack-dev-server@4.15.2(webpack@5.91.0(@swc/core@1.3.96)))(webpack@5.91.0(@swc/core@1.3.96)))(react-dom@18.3.1(react@18.3.1))(react-native@0.76.2(@babel/core@7.26.0)(@babel/preset-env@7.26.0(@babel/core@7.26.0))(@types/react@18.3.12)(react@18.3.1))(react@18.3.1)
   : dependencies:
@@ -17093,6 +17460,10 @@ snapshots:
   timed-out@4.0.1: {}
 
   tiny-case@1.0.3: {}
+
+  tiny-invariant@1.3.3: {}
+
+  tiny-warning@1.0.3: {}
 
   tmp@0.0.33:
     dependencies:
@@ -17254,6 +17625,8 @@ snapshots:
       is-typed-array: 1.1.13
       possible-typed-array-names: 1.0.0
 
+  typescript@3.9.7: {}
+
   typescript@5.6.3: {}
 
   ua-parser-js@1.0.39: {}
@@ -17279,6 +17652,8 @@ snapshots:
   unescape-js@1.1.4:
     dependencies:
       string.fromcodepoint: 0.2.1
+
+  unfetch@4.2.0: {}
 
   unicode-canonical-property-names-ecmascript@2.0.1: {}
 
@@ -17311,6 +17686,10 @@ snapshots:
   unique-string@2.0.0:
     dependencies:
       crypto-random-string: 2.0.0
+
+  universal-router@8.3.0:
+    dependencies:
+      path-to-regexp: 3.3.0
 
   universal-router@9.2.0:
     dependencies:
@@ -17385,6 +17764,8 @@ snapshots:
   validate-html-nesting@1.2.2: {}
 
   validate-npm-package-name@5.0.1: {}
+
+  value-equal@1.0.1: {}
 
   vary@1.1.2: {}
 
@@ -17546,9 +17927,13 @@ snapshots:
 
   websocket-extensions@0.1.4: {}
 
+  weui@1.1.3: {}
+
   whatwg-encoding@3.1.1:
     dependencies:
       iconv-lite: 0.6.3
+
+  whatwg-fetch@2.0.4: {}
 
   whatwg-fetch@3.6.20: {}
 

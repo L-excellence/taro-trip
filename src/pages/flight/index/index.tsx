@@ -80,7 +80,29 @@ function Flight() {
     });
   };
 
-  const onLinkToList = () => {};
+  const onLinkToList = () => {
+    const {
+      arrCityName,
+      arrCityId,
+      arrAirportName,
+      dptCityId,
+      dptCityName,
+      dptAirportName,
+      dptDate,
+    } = flightIndex;
+    tools.navigateTo({
+      url: "/pages/flight/list/list",
+      data: {
+        arrCityName,
+        arrCityId,
+        arrAirportName,
+        dptCityId,
+        dptCityName,
+        dptAirportName,
+        dptDate,
+      },
+    });
+  };
 
   /**
    * 获取经纬度

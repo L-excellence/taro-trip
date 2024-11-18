@@ -57,6 +57,7 @@
     "react-dom": "^18.0.0",
     "react-redux": "^7.2.4",
     "redux": "4.1.0",
+    "taro-skeleton": "^2.0.4",
     "taro-ui": "^3.3.0"
   },
   "devDependencies": {

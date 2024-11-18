@@ -1,4 +1,3 @@
-import Taro from "@tarojs/taro";
 import tools from "@/common/tools.js";
 
 const init = () => {
@@ -9,22 +8,32 @@ const init = () => {
     nickName: userInfo?.nickName,
   };
 };
-export default {
-  namespace: "user",
-  state: {
-    ...init(),
-  },
-  reducers: {
-    updateState(state, action) {
+
+const initialState: any = {
+  ...init(),
+};
+
+function reducer(state = initialState, action: any): any {
+  switch (action.type) {
+    case "updateUserState": {
+      console.log("updateUserState: ", action.payload);
       return {
         ...state,
         ...action.payload,
       };
-    },
-    loginOut() {
+    }
+
+    case "loginOut": {
       return {
+        ...state,
         ...init(),
       };
-    },
-  },
-};
+    }
+
+    default: {
+      return state;
+    }
+  }
+}
+
+export default reducer;

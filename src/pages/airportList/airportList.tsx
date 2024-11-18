@@ -16,10 +16,20 @@ export default function AirPortList() {
 
   const getCityList = () => {
     tools.showLoading();
+    // 性能优化，二次加载 城市机场 数据，读取缓存中的数据
+    const storageList = tools.getStorageSyncWithTime("flightCityList");
+    if (storageList?.length) {
+      const cityObj = formatList(storageList);
+      setCityListObj(cityObj);
+      setLetterList(Object.keys(cityObj));
+      tools.hideLoading();
+      return;
+    }
     airportCityListReq()
       .then((res) => {
         console.log("getCityList res: ", res);
         const { result } = res;
+        tools.setStorageSyncWithTime("flightCityList", result, 20);
         const cityObj = formatList(result);
         setCityListObj(cityObj);
         setLetterList(Object.keys(cityObj));

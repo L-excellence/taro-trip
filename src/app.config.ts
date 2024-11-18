@@ -4,6 +4,13 @@ export default defineAppConfig({
     "pages/order/order",
     "pages/airportList/airportList",
     "pages/calendar/calendar",
+    "pages/login/login",
+  ],
+  subPackages: [
+    {
+      root: "pages/flight",
+      pages: ["list/list", "detail/detail"],
+    },
   ],
   window: {
     backgroundTextStyle: "light",
